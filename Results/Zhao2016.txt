@@ -1,0 +1,17 @@
+Methode Zhao 2016
+
+ wisconsin recall : 0.02763
+ wisconsin precision : 0.76005
+ wisconsin f_measure : 0.05332
+
+ washington recall : 0.03076
+ washington precision : 0.82727
+ washington f_measure : 0.05932
+
+ texas recall : 0.03221
+ texas precision : 0.80327
+ texas f_measure : 0.06193
+
+ cornell recall : 0.0306
+ cornell precision : 0.83822
+ cornell f_measure : 0.05904

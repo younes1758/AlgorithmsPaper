@@ -1,0 +1,17 @@
+Methode Clauset 2005
+
+ wisconsin recall : 0.0451
+ wisconsin precision : 0.6241
+ wisconsin f_measure : 0.0841
+
+ washington recall : 0.0511
+ washington precision : 0.6874
+ washington f_measure : 0.0951
+
+ texas recall : 0.0463
+ texas precision : 0.6687
+ texas f_measure : 0.0866
+
+ cornell recall : 0.0361
+ cornell precision : 0.7205
+ cornell f_measure : 0.0688

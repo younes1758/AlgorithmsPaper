@@ -1,0 +1,17 @@
+Methode Chen 2009
+
+ wisconsin recall : 0.00215
+ wisconsin precision : 0.03585
+ wisconsin f_measure : 0.00406
+
+ washington recall : 0.00128
+ washington precision : 0.03482
+ washington f_measure : 0.00247
+
+ texas recall : 0.00214
+ texas precision : 0.03743
+ texas f_measure : 0.00405
+
+ cornell recall : 0.0016
+ cornell precision : 0.02222
+ cornell f_measure : 0.00298

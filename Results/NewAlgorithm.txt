@@ -1,0 +1,17 @@
+Methode new Algorithm
+(alpha = 0.9)
+ wisconsin recall : 0.00125
+ wisconsin precision : 0.03
+ wisconsin f_measure : 0.00239
+
+ washington recall : 0.00114
+ washington precision : 0.03822
+ washington f_measure : 0.00222
+
+ texas recall : 0.00221
+ texas precision : 0.041
+ texas f_measure : 0.0042
+
+ cornell recall : 0.0016
+ cornell precision : 0.02222
+ cornell f_measure : 0.00298
